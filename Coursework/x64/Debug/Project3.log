@@ -1,0 +1,3 @@
+﻿  Source.c
+C:\Users\Danil\source\repos\Coursework\Source.c(164,32): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  Project3.vcxproj -> C:\Users\Danil\source\repos\Coursework\x64\Debug\Project3.exe
